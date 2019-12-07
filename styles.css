@@ -4,7 +4,7 @@ color:pink;
 
 }
 
-.btn {
+.BUTTON_KPZ {
    background: #3D94F6;
    background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
    background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
@@ -29,7 +29,7 @@ color:pink;
    cursor: pointer;
 }
 
-.btn:hover {
+.BUTTON_KPZ:hover {
    border: solid #337FED 1px;
    background: #1E62D0;
    background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
